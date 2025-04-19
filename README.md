@@ -16,15 +16,18 @@ A simple conversational AI agent that answers frequently asked questions about T
 ```bash
 git clone https://github.com/your-username/thoughtful-ai-agent.git
 cd thoughtful-ai-agent
+```
 
 ### 2. Install dependencies
-bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
+```
 
 ### 3. Run the app
-bash
+```bash
 Copy
 Edit
 python main.py
+```
